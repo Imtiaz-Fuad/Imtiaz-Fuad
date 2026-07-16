@@ -1,5 +1,5 @@
 <h1 align="center">Hi,I'm Imtiaz Fuad</h1>
-<h3 align="center">Competitive Programmer, Developer</h3>
+<h3 align="center">Competitive Programmer,App Developer</h3>
 
 - 📫 How to reach me **imtiazx00@gmail.com**
 
