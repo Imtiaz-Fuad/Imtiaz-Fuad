@@ -15,6 +15,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imtiaz-fuad&show_icons=true&locale=en" alt="imtiaz-fuad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imtiaz-fuad&" alt="imtiaz-fuad" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Imtiaz-Fuad&label=Profile%20views&color=0e75b6&style=flat" alt="i-am-brinto" /> </p>
 
 <!--
 **Imtiaz-Fuad/Imtiaz-Fuad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
